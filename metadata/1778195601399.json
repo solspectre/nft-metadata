@@ -1,0 +1,22 @@
+{
+  "name": "HBDAY",
+  "symbol": "HBDAY",
+  "description": "Happy Birthday",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778195599929.png",
+  "attributes": [
+    {
+      "trait_type": "BDAY",
+      "value": "TEST"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778195599929.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
