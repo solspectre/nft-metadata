@@ -1,0 +1,26 @@
+{
+  "name": "aaa",
+  "symbol": "AAA",
+  "description": "bbb",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778194666804.png",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Spectre"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Collection"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778194666804.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
