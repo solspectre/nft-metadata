@@ -1,0 +1,17 @@
+{
+  "name": "MG",
+  "symbol": "MG",
+  "description": "MAYKUTO GPT",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778241336438.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778241336438.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
