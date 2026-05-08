@@ -1,0 +1,17 @@
+{
+  "name": "MALATYALI",
+  "symbol": "44MALATYA",
+  "description": "MalatyalıEnes NFT",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_send_1778250530740.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_send_1778250530740.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
