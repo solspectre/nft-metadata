@@ -1,0 +1,17 @@
+{
+  "name": "speific",
+  "symbol": "SPCVT",
+  "description": "Send NFT to a specific wallet and use test1 campaign",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_1778242740601.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_1778242740601.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
