@@ -1,0 +1,17 @@
+{
+  "name": "speific",
+  "symbol": "SPCVT",
+  "description": "Minted via Spectre Agent",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_send_1778243301978.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_send_1778243301978.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
