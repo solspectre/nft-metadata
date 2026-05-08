@@ -1,0 +1,17 @@
+{
+  "name": "TRENCH",
+  "symbol": "TRENC",
+  "description": "ALPHA CALLS",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778240093796.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778240093796.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
