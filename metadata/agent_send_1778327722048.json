@@ -1,0 +1,17 @@
+{
+  "name": "Spectre Test NFT",
+  "symbol": "STN",
+  "description": "A test NFT sent via Spectre Protocol.",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_send_1778327720010.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_send_1778327720010.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
