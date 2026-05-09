@@ -1,0 +1,17 @@
+{
+  "name": "F Spectre",
+  "symbol": "F",
+  "description": "Exclusive Spectre F NFT.",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_1778285877044.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_1778285877044.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
