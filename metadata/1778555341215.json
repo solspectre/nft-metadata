@@ -1,0 +1,17 @@
+{
+  "name": "spectre ",
+  "symbol": "SPECT",
+  "description": "test1",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778555337519.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778555337519.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
