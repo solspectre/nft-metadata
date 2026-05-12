@@ -1,0 +1,17 @@
+{
+  "name": "test1231",
+  "symbol": "TEST1",
+  "description": "12311",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778558248576.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778558248576.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
