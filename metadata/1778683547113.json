@@ -1,0 +1,22 @@
+{
+  "name": "Watch",
+  "symbol": "WATCH",
+  "description": "Solana x AP",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778683545284.png",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "AP"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1778683545284.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
