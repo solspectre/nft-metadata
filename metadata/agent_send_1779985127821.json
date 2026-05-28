@@ -1,0 +1,17 @@
+{
+  "name": "slsm",
+  "symbol": "slsm",
+  "description": "slsm",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_send_1779985123806.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_send_1779985123806.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
