@@ -1,0 +1,17 @@
+{
+  "name": "hh",
+  "symbol": "HH",
+  "description": "hh",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1780168181061.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1780168181061.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
