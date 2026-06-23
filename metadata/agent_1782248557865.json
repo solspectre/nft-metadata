@@ -1,0 +1,17 @@
+{
+  "name": "usm",
+  "symbol": "USM",
+  "description": "",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_1782248556080.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/agent_1782248556080.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
