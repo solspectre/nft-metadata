@@ -1,0 +1,22 @@
+{
+  "name": "MOONPAY AGENT 00",
+  "symbol": "MOONP",
+  "description": "MOON AGENT 00",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1782917624338.png",
+  "attributes": [
+    {
+      "trait_type": "MOONPAY",
+      "value": "AGENT"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1782917624338.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
