@@ -1,0 +1,17 @@
+{
+  "name": "a",
+  "symbol": "A",
+  "description": "a",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1783079438757.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solspectre/nft-metadata/main/assets/1783079438757.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
